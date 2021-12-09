@@ -15,4 +15,4 @@ static void tchau(void){
     
 }
 module_init(ola);
-module_init(tchau);
+module_exit(tchau);
